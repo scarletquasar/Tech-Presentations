@@ -1,6 +1,8 @@
-# Presentations 📚
-Index of my presentations with resources and links.
+# Tech Presentations 📚
+Index of my tech presentations with resources and links.
 
 | Name | Available Languages | Description | Date | Link | Resources | Event information |
 | ---- | ------------------- | ----------- | ---- | ---- | --------- | ----------------- |
-| Sibsday | `pt-BR` | Explained about the development stages of my projecty [Melon](https://github.com/MelonRuntime/Melon). I talked about use cases and real live coding to show the project features. | July 27, 2022 | [Sibsday (Youtube)](https://www.youtube.com/watch?v=cMf2UDSS1U0) | - | Sibsday was an interactive event promoted by Sibelius Seraphini ([@sibelius](https://github.com/sibelius)) and Gabriel Grubba ([@Grubba27](https://github.com/Grubba27)) to provide a showcase of interesting tech projects and presentations. |
+| NodeBR | `pt-BR` | Talked about "Accelerating Automation Processes with TypeScript and Node". | July, 22, 2023 | [NodeBR (Youtube)](https://youtu.be/AaxTpe3b2zY?t=22243) | [Slideshow Link](https://docs.google.com/presentation/d/1qw6jswO64cnc2jBLNbZoK7Pgc02AHtBot7FgMD6SeYE/edit?usp=sharing) | NodeBR brings an event focused on showcasing interesting presentations about Node.js use cases, best pratices, tricks and features. |
+| CityJS São Paulo | `en-US` | "The Impact of DX in real-world tech business". Also talked about the Melon project internal efforts to provide a good DX to the final developers. | April, 26, 2023 | [CityJS (Youtube)](https://youtu.be/lD39kjrXRvo?t=17974) | - | CityJS is a worldwide community conference created to showcase interesting presentations about the JavaScript world. |
+| Sibsday | `pt-BR` | Explained about the development stages of my project [Melon](https://github.com/MelonRuntime/Melon). I talked about use cases and real live coding to show the project features. | July 27, 2022 | [Sibsday (Youtube)](https://www.youtube.com/watch?v=cMf2UDSS1U0) | - | Sibsday was an interactive event promoted by Sibelius Seraphini ([@sibelius](https://github.com/sibelius)) and Gabriel Grubba ([@Grubba27](https://github.com/Grubba27)) to provide a showcase of interesting tech projects and presentations. |

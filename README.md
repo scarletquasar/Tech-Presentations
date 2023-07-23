@@ -1,2 +1,2 @@
-# Presentations
-List of the presentations that I participated, resources and links
+# Presentations 📚
+Index of my presentations with resources and links 
